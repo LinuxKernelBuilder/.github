@@ -1,7 +1,9 @@
 ##Linux Kernel Builder SIG
-![Uploading image.png…]()
+
+![Uploading LinuxKernelBuilder-logo.png…]()
 
 🌈用于自动获取并构建Linux Kernel的一个组织🌈
+
 目的是为了让更多的人更方便的使用到新版本的内核、以避免部分发行版应内核更新不及时导致的安全问题及硬件兼容性支持的问题。
 
 <!--
